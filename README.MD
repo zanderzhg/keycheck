@@ -24,23 +24,31 @@
 - HTML/CSS/JavaScript
 - 硅基流动 API
 
+## 开发/部署
+
+### 进入项目目录
+```bash
+cd keycheck
+```
+
+### 安装依赖
+```bash
+npm install
+```
+
+### 启动开发服务器
+```bash
+npm run dev
+```
+
+### 部署到 Cloudflare
+```bash
+npm run deploy
+```
+
+
 ## License
 
 ## 演示地址：https://keycheck.hzruo.ggff.net/
 
 MIT
-
----
-Powered by [硅基流动](https://siliconflow.cn/)
-
-# 进入项目目录
-cd keycheck
-
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run dev
-
-# 部署
-npm run deploy
