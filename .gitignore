@@ -12,7 +12,10 @@ worker/
 .vscode/
 *.swp
 *.swo
+.venv
+python
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+temp
